@@ -6,7 +6,7 @@
 ## Sobre o projeto
 
 
-Esse Relógio Digital Dinâmico é uim projeto que aborda de maneira simples, diversos conceitos importantes para programação.
+Esse Relógio Digital Dinâmico é um projeto que aborda de maneira simples, diversos conceitos importantes para programação.
 
 
 ## Layout
